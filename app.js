@@ -1,3 +1,6 @@
+/*jslint forin: true, sloppy: true, unparam: true, vars: true, white: true, nomen: true, plusplus:true */
+/*global window, document, jQuery, console, require, process, __dirname */
+
 /**
  * Module dependencies.
  */
@@ -24,7 +27,7 @@ app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 
 // development only
-if ('development' == app.get('env')) {
+if ('development' === app.get('env')) {
     app.use(express.errorHandler());
 }
 
