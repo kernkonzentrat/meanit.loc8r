@@ -7,10 +7,10 @@
 
 // GET 'About us' page
 exports.about = function(req, res){
-    res.render('index', { title: 'About us' });
+    res.render('generic-text', { title: 'About' });
 };
 
 // GET 'Sign in' page
 exports.signin = function(req, res){
-    res.render('index', { title: 'Sign in' });
+    res.render('signin', { title: 'Sign in to MeanIt Loc8r' });
 };

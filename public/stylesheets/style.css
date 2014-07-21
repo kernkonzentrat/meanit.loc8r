@@ -18,3 +18,9 @@
 .reviewTimestamp {
     color: #ccc;
 }
+
+@media (max-width: 767px) {
+    .location-review-form__name {
+        padding-top: 0;
+    }
+}
