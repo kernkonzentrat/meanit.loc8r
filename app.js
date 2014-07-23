@@ -9,6 +9,7 @@ var express = require('express');
 var routes = require('./routes');
 var http = require('http');
 var path = require('path');
+require('./app_server/models/db.js');
 
 var app = express();
 
