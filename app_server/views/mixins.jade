@@ -1,0 +1,6 @@
+//- renders HTML rating items based on the passed rating value
+mixin outputRating( rating, max_rating )
+    -   for ( var i = 1; i <= rating; i++ )
+        span.glyphicon.glyphicon-star
+    -   for ( var i = rating; i < max_rating; i++ )
+        span.glyphicon.glyphicon-star-empty
