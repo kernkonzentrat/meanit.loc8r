@@ -1,0 +1,1839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"formatDistance"
+			],
+			[
+				"dista",
+				"getRadsFromDistance"
+			],
+			[
+				"locations",
+				"locationsListByDistance"
+			],
+			[
+				"respon",
+				"response_body"
+			],
+			[
+				"reques",
+				"request_options"
+			],
+			[
+				"review",
+				"reviewid"
+			],
+			[
+				"upda",
+				"updateAverageRating"
+			],
+			[
+				"open",
+				"openingTimes"
+			],
+			[
+				"location",
+				"locationid"
+			],
+			[
+				"model",
+				"model_location"
+			],
+			[
+				"aver",
+				"ratingAverage"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"rat",
+				"ratingAverage"
+			],
+			[
+				"rew",
+				"reviewCount"
+			],
+			[
+				"ra",
+				"ratingTotal"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"rati",
+				"ratingTotal"
+			],
+			[
+				"revi",
+				"reviewCount"
+			],
+			[
+				"rev",
+				"reviews"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"mode",
+				"model_location"
+			],
+			[
+				"op",
+				"opening"
+			],
+			[
+				"mo",
+				"model_location"
+			],
+			[
+				"pr",
+				"processLocationList"
+			],
+			[
+				"se",
+				"sendJSONresponse"
+			],
+			[
+				"ge",
+				"getDistanceFromRads"
+			],
+			[
+				"get",
+				"getRadsFromDistance"
+			],
+			[
+				"co",
+				"convertEarthUnits"
+			],
+			[
+				"par",
+				"parseFloat"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"respo",
+				"responses"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"col",
+				"collectionNames"
+			],
+			[
+				"c",
+				"ctrl"
+			],
+			[
+				"ope",
+				"openingTimes"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"d",
+				"dbURI"
+			],
+			[
+				"po",
+				"process"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"p",
+				"process"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"ap",
+				"app_server"
+			],
+			[
+				"loc",
+				"loc8r"
+			],
+			[
+				"fac",
+				"facility"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pan",
+				"panel-heading"
+			],
+			[
+				"gl",
+				"glyphicon-star"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"la",
+				"label-warning"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"nav",
+				"navbar-main"
+			],
+			[
+				"bot",
+				"bottomOffset"
+			],
+			[
+				"max",
+				"maxValueMinus"
+			],
+			[
+				"m",
+				"maxValue"
+			],
+			[
+				"bo",
+				"bottomOffset"
+			],
+			[
+				"mod",
+				"modulesLoaded"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"reg",
+				"registeredModules"
+			],
+			[
+				"in",
+				"infoTexts"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"C",
+				"Contentcontrol"
+			],
+			[
+				"_",
+				"_triggerEvent"
+			],
+			[
+				"eve",
+				"eventObj"
+			],
+			[
+				"tri",
+				"triggerEvent"
+			],
+			[
+				"tr",
+				"triggerEvent"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"A",
+				"Accordion"
+			],
+			[
+				"ini",
+				"initialization"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"_cal",
+				"_calcTotal"
+			],
+			[
+				"_ca",
+				"_calcTotal"
+			],
+			[
+				"obj",
+				"obj_isotope"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"bar-grey",
+				"bar-grey-light"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"on",
+				"onSlideEnd"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ba",
+				"barchart__bar"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ob",
+				"obj_relatedContent"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"s",
+				"selector_relatedContent"
+			],
+			[
+				"da",
+				"dataAttr_relatedContent"
+			],
+			[
+				"js",
+				"jsonLangPath"
+			],
+			[
+				"sli",
+				"sliderCollection"
+			],
+			[
+				"pow",
+				"powerProductionValue"
+			],
+			[
+				"fue",
+				"fuelProductionValue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"super",
+				"superType"
+			],
+			[
+				"ve",
+				"vehicleProductionValue"
+			],
+			[
+				"fuel",
+				"fuel_production"
+			],
+			[
+				"powe",
+				"power_production"
+			],
+			[
+				"el",
+				"elemData"
+			],
+			[
+				"JA",
+				"JAVA_HOME"
+			],
+			[
+				"regi",
+				"regionObject"
+			],
+			[
+				"regio",
+				"regionList"
+			],
+			[
+				"coun",
+				"countrySelector"
+			],
+			[
+				"fle",
+				"flexRef"
+			],
+			[
+				"medi",
+				"mediaelementplayer"
+			],
+			[
+				"vide",
+				"videoWidth"
+			],
+			[
+				"selectedI",
+				"selectedIndex"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fan",
+				"fancyDropDown"
+			],
+			[
+				"searc",
+				"searchRequestSuccesCallback"
+			],
+			[
+				"up",
+				"updatedSearchResults"
+			],
+			[
+				"ke",
+				"keyArr"
+			],
+			[
+				"req",
+				"requestString"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"gsa",
+				"gsaPaginationWrapper"
+			],
+			[
+				"link",
+				"linkTarget"
+			],
+			[
+				"Link",
+				"linkName"
+			],
+			[
+				"prop",
+				"prop39"
+			],
+			[
+				"lin",
+				"linkName"
+			],
+			[
+				"or",
+				"originalAction"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"tab",
+				"tabNavigation"
+			],
+			[
+				"cus",
+				"customScrollbarHover"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_api/routes/locations.js",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_api/controllers/locations.js",
+			"settings":
+			{
+				"buffer_size": 14590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_server/controllers/locations.js",
+			"settings":
+			{
+				"buffer_size": 4574,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pr",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"ma",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pacak",
+				"Package Control: List Packages"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown previ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Discover Packages"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"JS",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"rein",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"repr",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"sy",
+				"Set Syntax: XML"
+			],
+			[
+				"low",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"lo",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jsli",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"com",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"LOW",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rrush/Projects/loc8r/app_api/models/locations.js",
+		"/Users/rrush/Projects/loc8r/app_server/views/layout.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/locations/locations-list.jade",
+		"/Users/rrush/Projects/loc8r/public/scripts/ba-debug.min.js",
+		"/Users/rrush/Projects/loc8r/package.json",
+		"/Users/rrush/Projects/loc8r/public/stylesheets/style.css",
+		"/Users/rrush/Projects/loc8r/app_api/models/db.js",
+		"/Users/rrush/Projects/loc8r/app.js",
+		"/Users/rrush/Projects/loc8r/app_api/routes/index.js",
+		"/Users/rrush/Projects/loc8r/app_api/routes/locations.js",
+		"/Users/rrush/Projects/loc8r/app_api/controllers/locations.js",
+		"/Users/rrush/Projects/loc8r/.gitignore",
+		"/Users/rrush/Projects/loc8r/app_server/views/main/signin.jade",
+		"/Users/rrush/Projects/loc8r/app_server/controllers/locations.js",
+		"/Users/rrush/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/rrush/Projects/loc8r/routes/locations.js",
+		"/Users/rrush/Projects/loc8r/routes/index.js",
+		"/Users/rrush/Projects/loc8r/db_config.nfo",
+		"/Users/rrush/Projects/loc8r/app_server/models/db.js",
+		"/Users/rrush/Projects/loc8r/app_server/models/locations.js",
+		"/Users/rrush/Projects/loc8r/.git/COMMIT_EDITMSG",
+		"/Users/rrush/Projects/loc8r/db_config.ndo",
+		"/usr/local/etc/mongod.conf",
+		"/Users/rrush/.bash_profile",
+		"/Users/rrush/.mongorc.js",
+		"/Users/rrush/Projects/loc8r/app_server/controllers/main.js",
+		"/Users/rrush/Projects/loc8r/app_server/views/mixins.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/locations/location-info.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/locations/location-review-form.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/generic/generic-text.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/locations-list.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/signin.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/generic-text.jade",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/pom.xml",
+		"/Users/rrush/Projects/Audi/AUDICODE/SSMS/branches/stable_release/pom.xml",
+		"/Users/rrush/Projects/loc8r/app_server/views/location-info.jade",
+		"/Users/rrush/Projects/loc8r/.git/config",
+		"/Users/rrush/Projects/loc8r/app_server/views/signing.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/location-review-form.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/index.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/location-review.form.jade",
+		"/Users/rrush/Projects/loc8r/app_server/views/location-list.jade",
+		"/Users/rrush/Projects/loc8r/routes/main.js",
+		"/Users/rrush/Projects/loc8r/Procfile",
+		"/Users/rrush/Projects/loc8r/public/bootstrap/css/amelia.bootstrap.css",
+		"/Users/rrush/Projects/loc8r/public/bootstrap/css/amelia.bootstrap.min.css",
+		"/Users/rrush/Projects/loc8r/routes/user.js",
+		"/Users/rrush/Projects/Sublime/loca8tor.sublime-project",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/svn-commit.tmp",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_accordion.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/json/i18n_de.json",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_legend.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.app.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.accordion.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.i18n.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.infotext.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.rangeslider.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.contentcontrol.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/co2.styles.oldie.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_icons.png.scss",
+		"/tmp/subl stdin 2Oww9v.txt",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/libs/modernizr.min.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/prod/js/libs/modernizr.min.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js/libs/modernizr.min.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js/libs/modernizr.dev.js",
+		"/tmp/subl stdin Mx7PQ1.txt",
+		"/tmp/subl stdin KqFafb.txt",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT/trunk/svn-commit.tmp",
+		"/tmp/subl stdin j968M7.txt",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/prod/js/json/structure.json",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/prod/js/json/i18n_de.json",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app/co2.barchart.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_rangeslider.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_infotext.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_base.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/_barchart.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/index.html",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/co2.styles.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/json/structure.json",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT/trunk/.svn/tmp/co2app.jsp.tmp",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/co2.styles.dev.scss",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/grunt/options/compass.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/Gruntfile.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/grunt/options/copy.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/grunt/options/watch.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/grunt/options/clean.js",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/sass/styles.dev.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/Compass.rb",
+		"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/package.json",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/base/_text-rtl.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/base/_oldie.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js/acw.region-selector.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/svn-commit.tmp",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_image-text.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_content-navigation.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/partials/headLibs.hbs",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_image-gallery.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js/acw.imageGallery.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js/libs/jquery.flexslider.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js/acw.core.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/components/filterable-stream/blocks/filter/hbs/filter.hbs",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/components/checkbox/hbs/checkbox.hbs",
+		"/Users/rrush/Desktop/handlebars.helpers.js.txt",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js/template.helpers.js",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/pages/detail-level1.hbs",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/generic/_variables.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/base/_fonts.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/target/vault-work/jcr_root/etc/clientlibs/acw/publish/styles/styles.rtl.css",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/templates/_search-results.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/templates/_search-news-results.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/templates/_landing-page.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/templates/_detail-level1.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_stage.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_menu.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_mediaplayer.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_header.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_expandable.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_dropdown.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/02-organisms/_contact.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_teaser.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_search.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_press.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_navigation.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_navigation-pagination.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_navigation-menu-list-search-results.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/01-molecules/_blocks.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/00-atoms/_text.scss",
+		"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns/00-atoms/_lists.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT-CO2/prototype/source/js/app",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib/src/main/java/com/sapientnitro/audi/acw/taglib/components/gsa",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib/src/main/java/com/sapientnitro/audi/acw/taglib/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/landing",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/eclipse-preferences",
+			"/Users/rrush/Projects/Audi/AUDICODE/SSMS/trunk/ssms-taglib",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-taglib",
+			"/Users/rrush/Projects/Audi/AUDICODE/SSMS/trunk/ssms-view/src/main/content/jcr_root/apps/ssms/components",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-view/src/main/content/jcr_root/apps/vdt/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-taglib",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/VDT",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-view/src/main/content/jcr_root/apps/vdt/components",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-view/src/main/content/jcr_root/apps/vdt/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/AMS/sass",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/AMS/sass/ams",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICODE01/trunk/motorsport-view/src/main/content/jcr_root/etc/clientlibs/motorsport/publish/scripts",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/AMS/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/common",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib/src/main/java/com/sapientnitro/audi/acw/taglib/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-taglib",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/templates/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/branches/stable_release/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content/jcr_root/apps/acw/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content/jcr_root/apps/acw/components/teaser/linkteaser",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates/patterns/01-molecules/05-link-teasers",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Sites/audi.tron.dev/src/templates",
+			"/Users/rrush/Sites/audi.tron.dev/src/js",
+			"/Users/rrush/Projects/Audi/AUDICODE/VdT/branches/stable_release/vdt-view/src/main/content/jcr_root/apps/vdt/components/pages",
+			"/Users/rrush/Projects/Audi/AUDICODE01/stable_release/motorsport-view/src/main/content/jcr_root/apps/motorsport/components/pages/",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/VDT/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/js",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/.rvm/gems/ruby-1.9.3-p392/gems/neat-1.4.0/app/assets/stylesheets",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/.rvm/gems/ruby-1.9.3-p392/gems/neat-1.4.0/app/assets/stylesheets",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates/",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates/patterns",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Sites/com.knv.dev/css",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/sass",
+			"/Users/rrush/Projects/Audi/AUDICOM/ACW/trunk/acw-view/src/main/content/jcr_root/apps/acw/components",
+			"/Users/rrush/Projects/Audi/AUDICODE01/trunk",
+			"/Users/rrush/Projects/Audi/AUDIDOC/Development/Code/AMS/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"point",
+			"'",
+			"debug",
+			"model_location",
+			"findBy",
+			";",
+			"var ",
+			";",
+			"var ",
+			"doAddReview",
+			"1",
+			"(",
+			"'",
+			"dnc",
+			"d",
+			"Loc.",
+			"Loc",
+			"loc",
+			"Loc",
+			"loc",
+			"Loc",
+			"loc",
+			"Loc",
+			" )",
+			"( ",
+			"model_loc",
+			"'",
+			"\"",
+			"'",
+			"app.delete",
+			"delete",
+			"ete",
+			"('",
+			"(res",
+			"res)",
+			"res",
+			"};",
+			"ctrl.",
+			"exports",
+			"\"",
+			" *  ",
+			"mongoose.connection",
+			"| ",
+			"\"",
+			"(req, res)",
+			"unction(req, res)",
+			"&nbsp;",
+			"-empty",
+			"| ",
+			"&nbps",
+			"\n<!--                         <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\">g</span></p> -->\n                    ",
+			"<!--                         <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p> -->",
+			"                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p>",
+			"                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\">g</span></p>",
+			"$obj_barchart_bar_value_count.html(usage);",
+			"accordion",
+			"                    <div class=\"barchart__bar barchart__bar--usage\">\n                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p>\n                    </div>\n\n                    <div class=\"barchart__bar barchart__bar--production-fuel\">\n                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p>\n                    </div>\n\n                    <div class=\"barchart__bar barchart__bar--production-car\">\n                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p>\n                    </div>",
+			"                            <p class=\"barchart__bar__label--text\" data-i18n=\"meta:measurement\"></p>\n                            <p class=\"barchart__bar__label--total\"><span class=\"barchart__bar__label__total\" data-i18n=\"meta:total\"></span> <span class=\"barchart__bar__label__count\">0</span><span class=\"barchart__bar__label__unit\" data-i18n=\"meta:unit\"></span></p>",
+			"                    <div class=\"barchart__bar barchart__bar--production-power\">\n                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\"></span></p>\n                    </div>",
+			"                    <div class=\"barchart__bar barchart__bar--production-power\">\n                        <p class=\"barchart__bar__value\"><span class=\"barchart__bar__value__count\">0</span><span class=\"barchart__bar__value__unit\" data-i18n=\"meta:unit\">g</span></p>\n                    </div>",
+			"e-tron",
+			"application",
+			",",
+			"Accordion",
+			"ContentControl",
+			"@media",
+			"        _calcTotal(superType, usage);",
+			"console.log",
+			"$obj.parent()",
+			"slide-3:content-1",
+			"content-2",
+			"<span class=\"barchart__bar__label__total\" data-i18n=\"meta:total\"></span>",
+			"Total ",
+			":unit",
+			"unit",
+			"label-text",
+			"        \"label-text\": \"CO2 / km\",\n        \"unit\": \"g\",",
+			"\"label-text\": \"CO2 / km\",",
+			"\"title\"",
+			">g<",
+			"1:",
+			"1",
+			">g<",
+			"g",
+			"                <div class=\"barchart__bar__label\">\n                    <p>CO2/km</p>\n                    <p class=\"barchart__bar__label--total\">Total <span class=\"barchart__bar__label__count\">0</span><span class=\"barchart__bar__label__unit\">g</span></p>\n                </div>",
+			"<div class=\"barchart__bar barchart__bar--usage\">",
+			"--",
+			";\n",
+			"maxValueMinus",
+			"bar__value__count",
+			"barchart__value",
+			"obj_barchart__bar",
+			"                <div class=\"barchart__bar barchart__bar--usage\">\n                    <p class=\"barchart__bar__value\">0 <span class=\"barchart__bar__value__unit\">g</span></p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-fuel\">\n                    <p class=\"barchart__bar__value\">0 <span class=\"barchart__bar__value__unit\">g</span></p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-power\">\n                    <p class=\"barchart__bar__value\">0 <span class=\"barchart__bar__value__unit\">g</span></p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-car\">\n                    <p class=\"barchart__bar__value\">0 <span class=\"barchart__bar__value__unit\">g</span></p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--minus\">\n                    <p class=\"barchart__bar__value\">0 <span class=\"barchart__bar__value__unit\">g</span></p>\n                </div>",
+			"0 ",
+			"                <div class=\"barchart__bar barchart__bar--usage\">\n                    <p class=\"barchart__bar__value\">1</p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-fuel\">\n                    <p class=\"barchart__bar__value\">2</p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-power\">\n                    <p class=\"barchart__bar__value\">3</p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--production-car\">\n                    <p class=\"barchart__bar__value\">4</p>\n                </div>\n\n                <div class=\"barchart__bar barchart__bar--minus\">\n                    <p class=\"barchart__bar__value\">-1</p>\n                </div>",
+			" true",
+			"initialized",
+			"        $('[data-barchart=\"' + superType + '\"]')\n            .find('.barchart__bar--usage')\n            .css('height', value + 'px');",
+			"        // $('[data-barchart=\"' + superType + '\"]')\n        //     .find('.barchart__bar--usage')\n        //     .css('height', value + 'px');",
+			"        $('[data-barchart=\"' + superType + '\"]')\n            .find('.barchart__bar--usage')\n            .css('height', value + 'px');",
+			"$barcharts",
+			"();",
+			"/*jslint forin: true, sloppy: true, unparam: true, vars: true, white: true, nomen: true */",
+			"var CO2 = CO2 || {};",
+			", ",
+			" ",
+			":",
+			"            line_comments  : true",
+			":",
+			"dist",
+			":dev",
+			"        ",
+			"\"",
+			"      ",
+			":      ",
+			"      ",
+			":",
+			"..",
+			"{}",
+			":",
+			"\"electro\": 0",
+			"\"combustion\": 0,",
+			"false",
+			":",
+			"fuelProduction",
+			"fuel:",
+			"fuel"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/*jslint forin: true, sloppy: true, unparam: true, vars: true, white: true, nomen: true, plusplus:true */",
+			"var CO2 = window.CO2 || {};",
+			"data-tracking='${hrefTrackProps}'",
+			"<c:if test=\"${rootPage.properties['disabletracking'] != 'true'}\">",
+			"https://tools.sapient.com",
+			"${rootPage.properties['disabletracking'] != 'true'}",
+			"showCrossNavigation: false",
+			"change.fs",
+			"on('change.fs",
+			"\"",
+			"flex-group",
+			"COM.templates",
+			"h2",
+			"@include medias($mobile)",
+			"@include medias($tablet)",
+			"@include medias($desktop)",
+			"@include media-custom($desktop)",
+			"@include media-custom($tablet)",
+			"@include media-custom($mobile)",
+			"@include media-custom($tablet)",
+			"$at-extended-normal",
+			"$at-normal",
+			"$at-bold",
+			"$at-extended-bold",
+			"$at-extended-normal",
+			"$at-bold",
+			"$at-extended-normal",
+			"@include media-custom",
+			"@media-custom",
+			"lists-search",
+			"#6d7579",
+			"#e7e9ea",
+			"#cc0033",
+			"content-wrapper",
+			"main-wrapper",
+			"content-wrapper",
+			"$header-height-desktop",
+			"$header-height-tablet",
+			"$header-height-mobile",
+			"em",
+			"@import \"../templates",
+			"@import \"../base",
+			"@import \"../generic",
+			"'",
+			"ams.storagemanager.getItem('streamSearchResults'",
+			"newValue",
+			"<ladestation-nl>",
+			"transition",
+			"stream-element-teaser-content-wrapper",
+			"ams",
+			"clippingBox",
+			"options.handleSelector ",
+			"handleSelector ",
+			"boundingBoxSelector",
+			"tron",
+			"ams",
+			"rendersingleteaser",
+			"$ssms_janrain_capture_divider",
+			"$ssms_janrain_textInputWidth",
+			"twitter",
+			"ssms",
+			"tangramFlexElements",
+			"tangram",
+			"ssms",
+			"ams",
+			"ssms",
+			"ams",
+			"ssms",
+			"ams",
+			"ssms",
+			"path",
+			"ssms",
+			"SSMS",
+			"ssms",
+			"SSMS",
+			"ssms",
+			"SSMS",
+			"smss",
+			"ssms",
+			"ams",
+			" \n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app_api/routes/locations.js",
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app_api/controllers/locations.js",
+					"settings":
+					{
+						"buffer_size": 14590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3837,
+								3840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app_server/controllers/locations.js",
+					"settings":
+					{
+						"buffer_size": 4574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1937,
+								1937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 800.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 237.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 169.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"oldi.scss",
+				"prototype/source/sass/base/_oldie.scss"
+			],
+			[
+				"icon",
+				"prototype/source/sass/patterns/00-atoms/_icons.svg.scss"
+			],
+			[
+				"varia",
+				"prototype/source/sass/generic/_variables.scss"
+			],
+			[
+				"teaser-history",
+				"prototype/source/templates/components/stream/hbs/teaser-history.hbs"
+			],
+			[
+				"teaser-his",
+				"prototype/source/templates/components/stream/hbs/teaser-history__caption.hbs"
+			],
+			[
+				"lists-search-resul",
+				"AUDICOM/ACW/trunk/acw-view/src/main/prototype/source/templates/patterns/00-atoms/02-lists/lists-search-results-media.hbs"
+			],
+			[
+				"_navigation",
+				"prototype/source/sass/patterns/01-molecules/_navigation-pagination.scss"
+			],
+			[
+				"",
+				"stable_release/motorsport-view/src/main/content/jcr_root/etc/designs/motorsport/.content.xml"
+			],
+			[
+				"_expa",
+				"prototype/source/sass/patterns/02-organisms/_expandable.scss"
+			],
+			[
+				"acw.jp",
+				"prototype/dist/js/acw.jPanelMenu.js"
+			],
+			[
+				"_footer.sc",
+				"prototype/source/sass/patterns/02-organisms/_footer.scss"
+			],
+			[
+				"_teaser",
+				"prototype/source/sass/patterns/01-molecules/_teaser.scss"
+			],
+			[
+				"link-list-ma",
+				"prototype/source/templates/patterns/01-molecules/01-navigation/link-list-main.hbs"
+			],
+			[
+				"teaser-menu",
+				"prototype/source/templates/patterns/01-molecules/00-teaser/teaser-menu-big.hbs"
+			],
+			[
+				"blocks-headl",
+				"prototype/source/templates/patterns/01-molecules/02-blocks/blocks-headline-text.hbs"
+			],
+			[
+				"teaser-search-text",
+				"prototype/source/templates/patterns/01-molecules/00-teaser/teaser-search-text.hbs"
+			],
+			[
+				"lists-sea",
+				"prototype/source/templates/patterns/00-atoms/02-lists/lists-search-results-teaser.hbs"
+			],
+			[
+				"lists-search-filt",
+				"prototype/source/templates/patterns/00-atoms/02-lists/lists-search-filter.hbs"
+			],
+			[
+				"dropdown-search-filt",
+				"prototype/source/templates/patterns/02-organisms/04-dropdown/dropdown-search-filter.hbs"
+			],
+			[
+				"lists-search-relate",
+				"prototype/source/templates/patterns/00-atoms/02-lists/lists-search-results-related.hbs"
+			],
+			[
+				"region",
+				"prototype/source/sass/patterns/01-molecules/_regionSelector.scss"
+			],
+			[
+				"footerblockitem",
+				"AUDICODE/SSMS/trunk/ssms-services/src/main/java/com/sapientnitro/audi/ssms/footer/jsonobjects/FooterBlockItem.java"
+			],
+			[
+				"footerblock",
+				"AUDICODE/ACW/acw-services/src/main/java/com/sapientnitro/audi/acw/footer/jsonobjects/FooterBlockItem.java"
+			],
+			[
+				"is",
+				"AUDICODE/SSMS/trunk/ssms-view/target/vault-work/jcr_root/apps/ssms/components/teaser/storyteaser/image_small.xml"
+			],
+			[
+				"hero",
+				"AUDICODE/Audisport/trunk/motorsport-view/target/vault-work/jcr_root/apps/motorsport/components/navigation/hero/hero.jsp"
+			],
+			[
+				"header.jsp",
+				"AUDICODE/Audisport/trunk/motorsport-view/target/vault-work/jcr_root/apps/motorsport/components/navigation/logoheader/logoheader.jsp"
+			],
+			[
+				"ams.so",
+				"AMS/js/ams.socialbar.js"
+			],
+			[
+				"ams.trac",
+				"AMS/js/ams.tracking.js"
+			],
+			[
+				"ams.eve",
+				"AMS/js/ams.eventdetail.js"
+			],
+			[
+				"ams.bac",
+				"AMS/js/ams.backtotop.js"
+			],
+			[
+				"s_code",
+				"AUDICODE/VdT/branches/release_1.0_defect_fixes/vdt-view/src/main/content/jcr_root/etc/clientlibs/vdt/tracking/s_code.js"
+			],
+			[
+				"ams.back",
+				"AMS/js/ams.backtotop.js"
+			],
+			[
+				"ams.mock",
+				"AMS/js/ams.mockjax.js"
+			],
+			[
+				"ams.ba",
+				"AMS/js/ams.backtotop.js"
+			],
+			[
+				"vdt.s",
+				"VDT/js/vdt.socialbar.js"
+			],
+			[
+				"s_c",
+				"AUDICODE/VdT/branches/release_1.0_defect_fixes/vdt-view/src/main/content/jcr_root/etc/clientlibs/vdt/tracking/s_code.js"
+			],
+			[
+				"vdt.is",
+				"VDT/js/vdt.isotope.js"
+			],
+			[
+				"trackin",
+				"AUDICODE/VdT/branches/release_1.0_defect_fixes/vdt-view/target/classes/tracking-sitecatalyst.jsp"
+			],
+			[
+				"vdt.isot",
+				"VDT/js/vdt.isotope.js"
+			],
+			[
+				"vdt.teaser",
+				"VDT/js/vdt.teaser.js"
+			],
+			[
+				"footer",
+				"AUDICODE/SSMS/tags/PROD.RELEASE...1_REV.1605/ssms-services/src/test/java/com/sapientnitro/audi/footer/footer-dummy.json"
+			],
+			[
+				"ams.header",
+				"AMS/sass/ams/_ams.header.scss"
+			],
+			[
+				"ams.header.s",
+				"AMS/.sass-cache/5af3686d0f82ea02c35e1d35804997cb1abe8ed4/_ams.header.scssc"
+			],
+			[
+				"ams.her",
+				"AMS/js/ams.hero.js"
+			],
+			[
+				"janrain",
+				"AUDICODE/Audisport/trunk/motorsport-view/target/vault-work/jcr_root/apps/motorsport/components/navigation/janrainlogin/janrainhead.jsp"
+			],
+			[
+				"janrainlogin",
+				"AUDICODE/Audisport/trunk/motorsport-view/src/main/content/jcr_root/apps/motorsport/components/navigation/janrainlogin/janrainlogin.jsp"
+			],
+			[
+				"head.jsp",
+				"AUDICODE/SSMS/trunk/ssms-view/src/main/content/jcr_root/apps/ssms/components/pages/basepage/head.jsp"
+			],
+			[
+				"ssms.stream-social",
+				"AUDICODE/Audisport/trunk/motorsport-view/target/vault-work/jcr_root/etc/designs/motorsport/static/templates/ssms.stream-social-teaserblock-template.inc.html"
+			],
+			[
+				"ssms.stream-social-teaserblock-template.inc.html",
+				"AMS/includes/ssms.stream-social-teaserblock-template.inc.html"
+			],
+			[
+				"ams.iso",
+				"AMS/js/ams.isotope.js"
+			],
+			[
+				"ams.teaser",
+				"AMS/js/ams.teaser.js"
+			],
+			[
+				"ams.bg",
+				"HTML_Prototype/js/ams.bgHandler.js"
+			],
+			[
+				"ams.video",
+				"AMS/js/ams.video.js"
+			],
+			[
+				"janrainhe",
+				"AUDICODE/Audisport/trunk/motorsport-view/src/main/content/jcr_root/apps/motorsport/components/navigation/janrainlogin/janrainhead.jsp"
+			],
+			[
+				"ams.jan",
+				"AMS/js/ams.janrain.js"
+			],
+			[
+				"ams.he",
+				"AMS/includes/ams.header.inc.html"
+			],
+			[
+				"ssms.conf",
+				"AMS/sass/ssms/_ssms.config.scss"
+			],
+			[
+				"restricted",
+				"AUDICODE/Audisport/trunk/motorsport-view/src/main/content/jcr_root/apps/motorsport/components/pages/editorialcontentpage/restricted.jsp"
+			],
+			[
+				"amsdis",
+				"AMS/js/ams.disqus.js"
+			],
+			[
+				"head.js",
+				"AUDICODE/SSMS/trunk/ssms-view/src/main/content/jcr_root/apps/ssms/components/pages/basepage/head.jsp"
+			],
+			[
+				"ams.ja",
+				"AMS/js/ams.janrain.js"
+			],
+			[
+				"vdt.vide",
+				"HTML_Prototype/js/vdt.video.js"
+			],
+			[
+				"amas.video",
+				"AMS/js/ams.video.js"
+			],
+			[
+				"isotope",
+				"AMS/js/libs/jquery.isotope.js"
+			],
+			[
+				"ams.janr",
+				"AMS/js/ams.janrain.js"
+			],
+			[
+				"ams.",
+				"AMS/ams.contentpage.article.html"
+			],
+			[
+				"ams.am",
+				"AMS/js/ams.amplify.js"
+			],
+			[
+				"ams.pa",
+				"AMS/ams.page.events.html"
+			],
+			[
+				"_ams.co",
+				"AMS/sass/ams/_ams.content.scss"
+			],
+			[
+				"ssms.header",
+				"AMS/.sass-cache/c6c518470951b38a9d6d92eb831ec2853aa9d435/_ssms.header.scssc"
+			],
+			[
+				"ams.ga",
+				"AMS/js/ams.gallery.js"
+			],
+			[
+				"ams.t",
+				"AMS/js/ams.tangram.js"
+			],
+			[
+				"vdt.sto",
+				"HTML_Prototype/js/vdt.storagemanager.js"
+			],
+			[
+				"vdt.na",
+				"HTML_Prototype/js/vdt.contentnavigation.js"
+			],
+			[
+				"vd.html",
+				"HTML_Prototype/includes/vdt.html-header.inc.html"
+			],
+			[
+				"vdt.html",
+				"HTML_Prototype/includes/vdt.html-footer.inc.html"
+			],
+			[
+				"vdt.her",
+				"HTML_Prototype/js/vdt.hero.js"
+			],
+			[
+				"ams.html",
+				"AMS/includes/ams.html-footer.inc.html"
+			],
+			[
+				"vdt.html-",
+				"HTML_Prototype/includes/vdt.html-footer.inc.html"
+			],
+			[
+				"vdt.sea",
+				"AAS/js/vdt.search.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"vdt.js",
+				"js/vdt.amplify.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/rrush/Projects/Sublime/patternlab.dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true
+}

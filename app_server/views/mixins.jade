@@ -4,3 +4,13 @@ mixin outputRating( rating, max_rating )
         span.glyphicon.glyphicon-star
     -   for ( var i = rating; i < max_rating; i++ )
         span.glyphicon.glyphicon-star-empty
+
+//- format a given ISO date into Day Month Year
+mixin formatDate ( date_string )
+    -   var date = new Date(date_string);
+    -   var monthNames = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ];
+    -   var d = date.getDate();
+    -   var m = monthNames[date.getMonth()];
+    -   var y = date.getFullYear();
+    -   var output = d + ' ' + m + ' ' + y;
+    =output

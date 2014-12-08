@@ -2,6 +2,7 @@
 /*global window, document, jQuery, console, require, module, exports */
 
 /*
+ * Sector: Main App
  * Collate all route files
  */
 
